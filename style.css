@@ -1385,6 +1385,9 @@ ul.listing-style.modify li:before {
 .sec-title2 .title.purple-color {
   color: #4e49a1 !important;
 }
+.sec-title2 .title.green-color {
+  color: #00A85A !important;
+}
 .sec-title3 .sub-title {
   font-size: 16px;
   line-height: 28px;
@@ -4338,7 +4341,7 @@ body .modal-backdrop {
   margin-bottom: 45px;
 }
 .rs-banner.style9 {
-  background: url(assets/images/banner/home11/banner.jpg);
+  background: url(assets/images/tumbuh/oh/banner.png);
   background-size: cover;
   display: grid;
   align-items: center;
@@ -9931,7 +9934,7 @@ body .modal-backdrop {
   color: #4e49a1;
 }
 .rs-blog.style1 .events-short.new-style .content-part .title a:hover {
-  color: #ff5421;
+  color: #00A85A;
 }
 .rs-blog.style1.modify1 .blog-item {
   border: 1px solid #c7e8f0;
